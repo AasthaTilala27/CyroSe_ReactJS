@@ -1,0 +1,76 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Great Wall",
+      "year": "2016",
+      "category": "Movies",
+      "rating": "6.0",
+      "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=500&q=80",
+      "description": "A warrior defends a legendary wall."
+    },
+    {
+      "id": 2,
+      "title": "Patriots Day",
+      "year": "2016",
+      "category": "Movies",
+      "rating": "7.3",
+      "poster": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=500&q=80",
+      "description": "Investigators work together after a major tragedy."
+    },
+    {
+      "id": 3,
+      "title": "Silence",
+      "year": "2016",
+      "category": "Movies",
+      "rating": "7.2",
+      "poster": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=500&q=80",
+      "description": "Two missionaries travel to Japan."
+    },
+    {
+      "id": 4,
+      "title": "Why Him?",
+      "year": "2016",
+      "category": "Movies",
+      "rating": "6.2",
+      "poster": "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=500&q=80",
+      "description": "A father meets his daughter's boyfriend."
+    },
+    {
+      "id": 5,
+      "title": "20th Century Women",
+      "year": "2016",
+      "category": "Movies",
+      "rating": "7.3",
+      "poster": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=500&q=80",
+      "description": "Three women help a teenager understand life."
+    },
+    {
+      "id": 6,
+      "title": "Colony",
+      "year": "S02E10",
+      "category": "TV Series",
+      "rating": "7.4",
+      "poster": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?auto=format&fit=crop&w=500&q=80",
+      "description": "A family struggles to survive in an occupied world."
+    },
+    {
+      "id": 7,
+      "title": "Grey's Anatomy",
+      "year": "S13E16",
+      "category": "TV Series",
+      "rating": "7.6",
+      "poster": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=500&q=80",
+      "description": "Doctors balance their professional and personal lives."
+    },
+    {
+      "id": 8,
+      "title": "Resident Evil 6",
+      "year": "2016",
+      "category": "Movies",
+      "rating": "5.5",
+      "poster": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?auto=format&fit=crop&w=500&q=80",
+      "description": "A survivor fights against a deadly outbreak."
+    }
+  ]
+}
